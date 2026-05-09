@@ -1,6 +1,6 @@
 # IPicker
 
-# Author - D3adpool2K
+# Author -  D3adpool2K
 
 # github - https://github.com/Mr-Krishna-90 
 
